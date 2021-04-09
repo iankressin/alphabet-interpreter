@@ -21,8 +21,6 @@ fn main() {
             }
             _ => {
                 error = validate_word(&line, index, &alphabet);
-
-                
             }
         } 
     }
